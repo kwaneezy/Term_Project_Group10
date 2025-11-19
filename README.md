@@ -1,4 +1,4 @@
-﻿# Term_Project （group 10）
+﻿# Term_Project （Group 10）
 
 Global Phone Commerce Website
 
@@ -22,5 +22,6 @@ These are knockoff versions though.
 # Purpose
 
 This project demonstrates basic e-commerce functionality, internationalization support, and full-stack development skills for a term project.
+
 
 
