@@ -1,5 +1,5 @@
 ﻿# Term_Project （Group 10）
-
+# https://term-project-group10.onrender.com/ made with FIGMA
 Global Phone Commerce Website
 
 This is our term project — a simple, full-stack commerce website designed to sell phones in both China and America. The goal of the project is to show how a single platform can support multiple regions, different currencies, and localized product info while keeping the shopping experience smooth and modern.
@@ -22,6 +22,7 @@ These are knockoff versions though.
 # Purpose
 
 This project demonstrates basic e-commerce functionality, internationalization support, and full-stack development skills for a term project.
+
 
 
 
